@@ -3,5 +3,5 @@
 
 <h3> Project Screenshot</h3>
 
-![](sidebar.jpg)
 ![](sidebar1.jpg)
+![](sidebar2.jpg)
